@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.18.4
 
 COPY . /usr/src/kafkacat
 
